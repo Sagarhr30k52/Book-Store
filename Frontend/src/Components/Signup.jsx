@@ -16,7 +16,7 @@ function Signup() {
       email: data.email,
       password: data.password,
     }
-    await axios.post("http://localhost:4000/user/signup", userInfo).then((res)=>{
+    await axios.post("https://book-store-backend-sn6s.onrender.com/user/signup", userInfo).then((res)=>{
       console.log(res.data);
       if(res.data){
         toast.success("Signup sucessful");
