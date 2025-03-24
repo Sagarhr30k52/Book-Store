@@ -21,7 +21,7 @@ function Course() {
   return (
     < >
     <div className='max-w-screen-2xl container mx-auto md:px-20 px-4'>
-        <div className='mt-28 items-center justify-center text-center'>
+        <div className='pt-28 items-center justify-center text-center'>
             <h1 className='text-2xl md:text-4xl'>We are delight to have to <span className='text-pink-500'>here!!!</span> </h1>
             <p className='mt-12'>
                 Lorem ipsum dolor sit amet consectetur adipisicing elit. Fuga voluptatibus debitis perspiciatis quibusdam amet delectus. Autem dolores vero id fugiat quaerat. Doloribus qui, perferendis a itaque sed, mollitia eum repellat ducimus magni, explicabo similique ex veniam veritatis repudiandae consequatur? Veritatis?
